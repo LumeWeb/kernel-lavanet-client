@@ -19,5 +19,8 @@
     },
     "dependencies": {
         "@lumeweb/libkernel": "^0.1.0-develop.36"
+    },
+    "publishConfig": {
+        "access": "public"
     }
 }
