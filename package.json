@@ -2,6 +2,7 @@
     "name": "@lumeweb/kernel-lavanet-client",
     "version": "0.1.0",
     "type": "module",
+    "main": "lib/index.js",
     "repository": {
         "type": "git",
         "url": "gitea@git.lumeweb.com:LumeWeb/kernel-lavanet-client.git"
@@ -22,5 +23,8 @@
     },
     "publishConfig": {
         "access": "public"
-    }
+    },
+    "files": [
+        "lib"
+    ]
 }
