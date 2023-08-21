@@ -1,12 +1,12 @@
 {
     "name": "@lumeweb/kernel-lavanet-client",
-    "version": "0.1.0-develop.1",
+    "version": "0.1.0-develop.2",
     "lockfileVersion": 3,
     "requires": true,
     "packages": {
         "": {
             "name": "@lumeweb/kernel-lavanet-client",
-            "version": "0.1.0-develop.1",
+            "version": "0.1.0-develop.2",
             "dependencies": {
                 "@lumeweb/libkernel": "^0.1.0-develop.36"
             },
