@@ -1,3 +1,5 @@
+# [0.1.0-develop.5](https://git.lumeweb.com/LumeWeb/kernel-lavanet-client/compare/v0.1.0-develop.4...v0.1.0-develop.5) (2023-09-04)
+
 # [0.1.0-develop.4](https://git.lumeweb.com/LumeWeb/kernel-lavanet-client/compare/v0.1.0-develop.3...v0.1.0-develop.4) (2023-09-03)
 
 # [0.1.0-develop.3](https://git.lumeweb.com/LumeWeb/kernel-lavanet-client/compare/v0.1.0-develop.2...v0.1.0-develop.3) (2023-09-02)
