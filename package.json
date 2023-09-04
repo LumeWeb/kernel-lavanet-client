@@ -18,7 +18,7 @@
         "semantic-release": "semantic-release"
     },
     "dependencies": {
-        "@lumeweb/libkernel": "^0.1.0-develop.39"
+        "@lumeweb/libkernel": "^0.1.0-develop.44"
     },
     "publishConfig": {
         "access": "public"
