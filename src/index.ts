@@ -1,7 +1,6 @@
 import { Client, factory } from "@lumeweb/libkernel/module";
 
-export const MODULE =
-  "zdiVVPc5raTp827qiA1BsbxTew1aQVYg7GRLxfbwRBYH8QPCQzN4C8ANzj";
+export const MODULE = "zrjTW4BiiJV7U8toTwqEMyzRbBy5G1nkdVRc34nW8LTmkEf";
 
 export class LavaNetClient extends Client {
   public async query(chain: string, query: any): Promise<number> {
