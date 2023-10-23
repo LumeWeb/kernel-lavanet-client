@@ -1,6 +1,6 @@
 {
     "name": "@lumeweb/kernel-lavanet-client",
-    "version": "0.1.0-develop.4",
+    "version": "0.1.0-develop.5",
     "type": "module",
     "main": "lib/index.js",
     "repository": {
